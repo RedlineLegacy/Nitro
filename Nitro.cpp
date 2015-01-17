@@ -7,7 +7,7 @@
 //  Simply NOOP-ing 0x359E2 0...+4
 //
 //  Compile:
-//    $ g++ "Nitro Patcher.cpp" -p "Nitro Patcher"
+//    $ g++ "Nitro Patcher.cpp" -o "Nitro Patcher"
 //  Execute:
 //    $ ./Nitro\ Patcher /Applications/Redline.app
 
@@ -29,7 +29,7 @@ int main(int argc, const char * argv[]) {
         return 2;
     }
 
-    printf("Nitro Patcher by GK\ngist.github.com/codezeb/34af9e3aac9e147e75d3\n\n");
+    printf("Nitro Patcher by GK\nhttps://github.com/RedlineReborn/Nitro\n\n");
 
     // Stage I: Copying and Stripping
     string cmd = "cd '";
