@@ -2,7 +2,13 @@
 //  Nitro Patcher.cpp
 //  Nitro Patcher, patching Redline 1.0.5
 //
-//  Created by codezeb on 25.10.14.
+//  Created by maride on 25.10.14.
+//
+//  Distributed under the PIZZA LICENSE:
+//    Do whatever you want to do with this code. It's free of charge and without any copyright.
+//    Use it, compile it, modify it, simply do whatever you want.
+//    However, if you enjoy this code, you can buy me a pizza as "thank-you". ;)
+//      -- maride
 //  
 //  Simply NOOP-ing 0x359E2 0...+4
 //
