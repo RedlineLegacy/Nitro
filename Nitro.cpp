@@ -35,7 +35,7 @@ int main(int argc, const char * argv[]) {
         return 2;
     }
 
-    printf("Nitro Patcher by GK\nhttps://github.com/RedlineReborn/Nitro\n\n");
+    printf("Nitro Patcher by GK\nhttps://github.com/RedlineLegacy/Nitro\n\n");
 
     // Stage I: Copying and Stripping
     string cmd = "cd '";
